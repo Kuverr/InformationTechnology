@@ -1,6 +1,8 @@
 img {
-    width: 300 px;
+    width: 300px;
     height: 300px;
     border: 2px solid black;
-    margin: 1cm
+    margin: 1cm;
+    object-fit: cover;
+    display: inline-block;
 }
