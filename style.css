@@ -8,6 +8,7 @@ th{
     background-color: black;
     color: white;
 }
+
 td{
     border: 1px solid black;
     padding: 8px;
@@ -63,4 +64,13 @@ h1 {
 #sources a:hover {
     cursor: pointer;
     color: lime;
+}
+
+#form1 input[type="text"],
+#form1 input[type="number"]{
+    background-color: lightblue;
+}
+
+#form1 button {
+    background-color: lime;
 }
